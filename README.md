@@ -144,7 +144,7 @@ calculadora-partidas/
 
 ## Observações
 
-Este projeto é ideal para quem está começando com JavaScript no back-end e deseja entender o funcionamento básico de uma API RESTful. A API pode ser expandida com novas funcionalidades, como um front-end em HTML/CSS, banco de dados para armazenar partidas, e autenticação de usuário.
+Este projeto é ideal para quem está começando com JavaScript no back-end e deseja entender o funcionamento básico. E ir alema estudar uma API RESTful. A API pode ser expandida com novas funcionalidades, como um front-end em HTML/CSS, banco de dados para armazenar partidas, e autenticação de usuário.
 
 ---
 
